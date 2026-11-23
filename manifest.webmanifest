@@ -1,0 +1,11 @@
+{
+  "name": "Escoliose S4D 2.0 - Avaliação Clínica e Postural",
+  "short_name": "Escoliose S4D",
+  "description": "Avaliação clínica e postural de escoliose",
+  "start_url": "./escoliose_s4d_avalia_o_cl_nica_e_postural.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F172A"
+}
